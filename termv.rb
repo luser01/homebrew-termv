@@ -4,7 +4,6 @@ class Termv < Formula
   url "https://github.com/Roshan-R/termv/archive/refs/tags/v1.2.zip"
   sha256 "1cd0da9c2d77cf597d6c33acbce0428c617ad54b35636530dd6056a1f66f11f2"
   license ""
-  bottle :unneeded
 
   depends_on "mpv"
   depends_on "jq"
